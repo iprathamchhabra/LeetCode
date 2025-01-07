@@ -60,4 +60,12 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/iprathamchhabra/LeetCode/tree/master/0214-shortest-palindrome) |
+## Array
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/iprathamchhabra/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/iprathamchhabra/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
