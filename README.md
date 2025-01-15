@@ -14,6 +14,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iprathamchhabra/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/iprathamchhabra/LeetCode/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/iprathamchhabra/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/iprathamchhabra/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/iprathamchhabra/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/iprathamchhabra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Hash Table
@@ -36,6 +37,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/iprathamchhabra/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/iprathamchhabra/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/iprathamchhabra/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## Design
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/iprathamchhabra/LeetCode/tree/master/0013-roman-to-integer) |
+| [0227-basic-calculator-ii](https://github.com/iprathamchhabra/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## String Matching
 |  |
 | ------- |
