@@ -77,4 +77,12 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/iprathamchhabra/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Greedy
+|  |
+| ------- |
+| [2509-minimize-xor](https://github.com/iprathamchhabra/LeetCode/tree/master/2509-minimize-xor) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2509-minimize-xor](https://github.com/iprathamchhabra/LeetCode/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->
