@@ -34,6 +34,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/iprathamchhabra/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/iprathamchhabra/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -63,9 +64,14 @@
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/iprathamchhabra/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iprathamchhabra/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iprathamchhabra/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/iprathamchhabra/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
