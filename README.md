@@ -7,6 +7,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iprathamchhabra/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/iprathamchhabra/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/iprathamchhabra/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/iprathamchhabra/LeetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/iprathamchhabra/LeetCode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/iprathamchhabra/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## String Matching
 |  |
@@ -69,6 +71,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/iprathamchhabra/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iprathamchhabra/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/iprathamchhabra/LeetCode/tree/master/0189-rotate-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/iprathamchhabra/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Binary Search
 |  |
