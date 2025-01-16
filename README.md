@@ -69,6 +69,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/iprathamchhabra/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iprathamchhabra/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/iprathamchhabra/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +86,9 @@
 |  |
 | ------- |
 | [2509-minimize-xor](https://github.com/iprathamchhabra/LeetCode/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/iprathamchhabra/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/iprathamchhabra/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
