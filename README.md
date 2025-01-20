@@ -24,6 +24,7 @@
 | [0013-roman-to-integer](https://github.com/iprathamchhabra/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/iprathamchhabra/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/iprathamchhabra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2685-first-completely-painted-row-or-column](https://github.com/iprathamchhabra/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Queue
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/iprathamchhabra/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iprathamchhabra/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/iprathamchhabra/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/iprathamchhabra/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/iprathamchhabra/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 ## Binary Search
 |  |
@@ -117,6 +119,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/iprathamchhabra/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iprathamchhabra/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2685-first-completely-painted-row-or-column](https://github.com/iprathamchhabra/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
 |  |
 | ------- |
