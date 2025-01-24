@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/iprathamchhabra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1396-count-servers-that-communicate](https://github.com/iprathamchhabra/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iprathamchhabra/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/iprathamchhabra/LeetCode/tree/master/0189-rotate-array) |
 | [0407-trapping-rain-water-ii](https://github.com/iprathamchhabra/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/iprathamchhabra/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iprathamchhabra/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/iprathamchhabra/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/iprathamchhabra/LeetCode/tree/master/2145-grid-game) |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/iprathamchhabra/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/iprathamchhabra/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iprathamchhabra/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/iprathamchhabra/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Graph
@@ -121,6 +124,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/iprathamchhabra/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/iprathamchhabra/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iprathamchhabra/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/iprathamchhabra/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/iprathamchhabra/LeetCode/tree/master/2145-grid-game) |
@@ -133,4 +137,12 @@
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/iprathamchhabra/LeetCode/tree/master/2145-grid-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/iprathamchhabra/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/iprathamchhabra/LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
