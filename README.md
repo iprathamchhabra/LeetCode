@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/iprathamchhabra/LeetCode/tree/master/0242-valid-anagram) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iprathamchhabra/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/iprathamchhabra/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/iprathamchhabra/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/iprathamchhabra/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iprathamchhabra/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/iprathamchhabra/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iprathamchhabra/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
